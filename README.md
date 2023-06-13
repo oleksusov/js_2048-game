@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+#2048 Game
+A single-player sliding block puzzle game where a gamer should create a 2048 tile.
+Technologies: JavaScript
+
+    - [DEMO LINK](https://oleksusov.github.io/js_2048-game/)
+    - [GitHub](https://github.com/oleksusov/js_2048-game)
+    
